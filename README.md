@@ -76,10 +76,10 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=TheGamerDiary&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=amazon-clone&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=portfolio&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=MovieApp&show_icons=true&theme=great-gatsby">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhil2002&repo=E_Commerce_Website&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhil2002&repo=E-Commerce-Website-with-FAQ-Bot&show_icons=true&theme=great-gatsby"> 
+<!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhil2002&repo=portfolio&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhil2002&repo=MovieApp&show_icons=true&theme=great-gatsby">-->
 </div>
  
 <div align="center">
