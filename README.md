@@ -3,21 +3,20 @@
 </h1>
 
 ---
-
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18834162)](https://stackoverflow.com/users/18834162/21u116-abhishek-l) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=abhil2002"/>|
-|---|---|
- 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=abhil2002"/>
+</div>
  ---
  
 - 👨‍🎓I am Abhishek Lawhale, currently embarking on my engineering journey from Smt Kashibai Navale College of Engineering, Pune.<br/>
-- 💻I am a **full-stack web developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
+- 💻I am a **Front End Developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
 - 2000+ Followers on LinkedIn😎😇
-- 4⭐ coder on **Hackerrank**<br/>
+- 5⭐ coder on **Hackerrank**<br/>
 - I love❤ to make **exciting projects**. <br/>
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
+- I really enjoy learning🚀 new languages and frameworks like **React⚛ .<br/>
 - I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
 - 🔭 I’m currently working on a Frontend  app.<br/>
-- 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
+<!-- - 🌱 I’m currently learning to build progressive web apps(PWA's).<br/> -->
 
 <h1>Technical Skills 🛠</h1>
 
