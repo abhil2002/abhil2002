@@ -10,7 +10,7 @@
  
 - 👨‍🎓I am Abhishek Lawhale, currently embarking on my engineering journey from Smt Kashibai Navale College of Engineering, Pune.<br/>
 - 💻I am a **Front End Developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
-- 2000+ Followers on LinkedIn😎😇
+- 3000+ Followers on LinkedIn😎😇
 - 5⭐ coder on **Hackerrank**<br/>
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ .<br/>
